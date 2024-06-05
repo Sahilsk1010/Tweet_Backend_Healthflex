@@ -1,4 +1,4 @@
-#Twitter-Like Backend System Assignment Overview: 
+Twitter-Like Backend System Assignment Overview: 
 This assignment involves designing and implementing a scalable backend system resembling Twitter, using Node.js as the runtime environment and MongoDB as the database. The main objectives include schema design, implementing RESTful APIs, adding basic user authentication, adhering to Domain-Driven Design (DDD) principles, implementing pagination, and providing documentation.
 
 #How to Run the Application:
