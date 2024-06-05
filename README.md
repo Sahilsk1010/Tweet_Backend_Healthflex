@@ -1,7 +1,7 @@
 Twitter-Like Backend System Assignment Overview: 
 This assignment involves designing and implementing a scalable backend system resembling Twitter, using Node.js as the runtime environment and MongoDB as the database. The main objectives include schema design, implementing RESTful APIs, adding basic user authentication, adhering to Domain-Driven Design (DDD) principles, implementing pagination, and providing documentation.
 
-#How to Run the Application:
+How to Run the Application:
 
 Clone the repository to your local machine: git clone https://github.com/your-username/twitter-like-backend.git
 Navigate to the project directory: cd twitter-like-backend
@@ -16,7 +16,7 @@ Installation Instructions: Install Node.js from the official website. Install Mo
 
 Configuration: Ensure that MongoDB is running locally on its default port (27017). Configure environment variables in a .env file as mentioned in the "How to Run the Application" section.
 
-#Testing:
+Testing:
 
 User Registration: Open Postman and create a new request. Set the request type to POST. Enter the URL for user registration endpoint (e.g., http://localhost:3000/api/users/register). In the request body, provide the necessary data for user registration (e.g., username and password). Send the request and verify that you receive a successful response indicating that the user has been registered.
 
