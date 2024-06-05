@@ -4,7 +4,7 @@ This assignment involves designing and implementing a scalable backend system re
 
 **How to Run the Application:**
 
-1. Clone the repository to your local machine: `git clone https://github.com/your-username/twitter-like-backend.git`
+1. Clone the repository to your local machine: `git clone git@github.com:Sahilsk1010/Tweet_Backend_Healthflex.git`
 2. Navigate to the project directory: `cd twitter-like-backend`
 3. Install dependencies: `npm install`
 4. Set up environment variables: Create a `.env` file in the root directory and define the necessary environment variables, such as `PORT` and `JWT_SECRET`.
